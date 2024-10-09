@@ -1,6 +1,8 @@
 # Azure-end-to-end-project
 Tools: SQL,Python,Azure Databricks, Azure data Factory, Azure Synapse Analytics
+
 Project overview
+
 ![image](https://github.com/user-attachments/assets/fe7fceda-ba5f-4682-82c5-9884b222c70c)
 
 Used SQL Server Management Studio (SSMS) to create and manage a database, then transferred the data to Azure Data Factory for data ingestion and processing.
@@ -18,5 +20,6 @@ https://github.com/mumar112/Azure-end-to-end-project/blob/main/bronze%20to%20sil
 https://github.com/mumar112/Azure-end-to-end-project/blob/main/silver%20to%20gold.ipynb
 
 Used Azure Synapse Analytics to load the clean data
+
 ![image](https://github.com/user-attachments/assets/cef959a4-f242-4f53-9d30-d0396947a9c1)
 
