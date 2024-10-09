@@ -1,6 +1,9 @@
 # Azure-end-to-end-project
 Tools: SQL,Python,Azure Databricks, Azure data Factory, Azure Synapse Analytics
 
+The use case for this project is building an end to end solution by ingesting the tables from on-premise SQL Server database using Azure Data Factory and then store the data in Azure Data Lake. Then Azure databricks is used to transform the RAW data to the most cleanest form of data and then we are using Azure Synapse Analytics to load the clean data .Also, we are using Azure Active Directory (AAD) and Azure Key Vault for the monitoring and governance purpose. 
+
+
 Project overview
 
 ![image](https://github.com/user-attachments/assets/fe7fceda-ba5f-4682-82c5-9884b222c70c)
