@@ -14,4 +14,6 @@ https://github.com/mumar112/Azure-end-to-end-project/blob/main/Storagemount.ipyn
 https://github.com/mumar112/Azure-end-to-end-project/blob/main/bronze%20to%20silver.ipynb
 https://github.com/mumar112/Azure-end-to-end-project/blob/main/silver%20to%20gold.ipynb
 
+Used Azure Synapse Analytics to load the clean data
+![image](https://github.com/user-attachments/assets/cef959a4-f242-4f53-9d30-d0396947a9c1)
 
