@@ -16,6 +16,7 @@ Developed pipelines in azure data factory and stored data in date lake storage g
 ![image](https://github.com/user-attachments/assets/d6d7ef4d-d4df-4913-b090-df3bec33353d)
 
 Utilized Azure Databricks transform the RAW data to the most cleanest form of data.
+
 https://github.com/mumar112/Azure-end-to-end-project/blob/main/Storagemount.ipynb
 
 https://github.com/mumar112/Azure-end-to-end-project/blob/main/bronze%20to%20silver.ipynb
