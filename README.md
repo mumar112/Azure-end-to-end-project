@@ -9,8 +9,9 @@ Used SQL Server Management Studio (SSMS) to create and manage a database, then t
 Developed pipelines in azure data factory and stored data in date lake storage gen2.
 ![image](https://github.com/user-attachments/assets/d6d7ef4d-d4df-4913-b090-df3bec33353d)
 
-Utilized Azure Databricks transform the RAW data to the most cleanest form of data 
-
-https://adb-3189687661626072.12.azuredatabricks.net/?o=3189687661626072#notebook/303757879156798
+Utilized Azure Databricks transform the RAW data to the most cleanest form of data.
 https://github.com/mumar112/Azure-end-to-end-project/blob/main/Storagemount.ipynb
+https://github.com/mumar112/Azure-end-to-end-project/blob/main/bronze%20to%20silver.ipynb
+https://github.com/mumar112/Azure-end-to-end-project/blob/main/silver%20to%20gold.ipynb
+
 
